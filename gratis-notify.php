@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Gratis Notify
  * Plugin URI: https://github.com/juslintek/gratis-notify
- * Description: Self-hosted browser push notifications with a polling fallback. Replaces OneSignal/PushEngage ($9-29/mo).
+ * Description: Self-hosted browser push notifications with a polling fallback.
  * Version: 1.0.0
  * Requires at least: 6.0
  * Requires PHP: 8.1
